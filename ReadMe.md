@@ -82,7 +82,7 @@
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/DhruvJDev/Suru-A.I.git
+   git clone https://github.com/DhruvJDev/Suru-present
    cd Suru-A.I
    ```
 
@@ -108,7 +108,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DhruvJDev/Suru-A.I.git
+   git clone https://github.com/DhruvJDev/Suru-present
    cd Suru-A.I
    ```
 
@@ -137,37 +137,6 @@
    ```
    *Grant microphone permissions when prompted*
 
-### 🐧 Linux
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/DhruvJDev/Suru-A.I.git
-   cd Suru-A.I
-   ```
-
-2. **Install system dependencies:**
-   ```bash
-   sudo apt update
-   sudo apt install portaudio19-dev espeak
-   ```
-
-3. **Install Python dependencies:**
-   ```bash
-   pip3 install -r requirements.txt
-   ```
-
-4. **Set up API keys:**
-   Create a `.env` file in the project root and add your API keys:
-   ```
-   OPENAI_API_KEY=your_key_here
-   GOOGLE_API_KEY=your_key_here
-   GROQ_API_KEY=your_key_here
-   ```
-
-5. **Run the application:**
-   ```bash
-   python3 main.py
-   ```
 
 ## 🔥 Firebase Setup (Optional)
 
@@ -204,29 +173,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **PyAudio issues**: Install dependencies: `sudo apt install portaudio19-dev python3-pyaudio`
 
 
-
-
-## 🗂️ File Structure 
-
-```mermaid
-graph LR
-    A[Suru] --> B[backend]
-    A --> C[data]
-    A --> D[frontend]
-    A --> E[main.py]
-    A --> F[.env]
-    A --> G[.gitignore]
-    A --> H[requirements.txt]
-    A --> I[ReadMe.md]
-
-	B --> B1[ai_agents]
-    B --> B2[utility]
-    B --> B3[function]
-
-    C --> C1[example]
-    C --> C2[json]
-
-	D --> D1[Assets]
-	
-
-```
