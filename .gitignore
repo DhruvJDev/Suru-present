@@ -1,0 +1,14 @@
+.env
+.venv/
+.obsidian/
+/test
+__pycache__/
+search_history/
+/information
+.DS_Store
+firebase_key.json
+dist/
+build/
+*.egg-info/
+*.spec
+*.pmg

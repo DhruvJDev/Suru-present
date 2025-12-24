@@ -1,0 +1,331 @@
+{
+  "Camera": {
+    "windows": "Camera",
+    "darwin": "Photo Booth",
+    "linux": "cheese"
+  },
+
+  "Photo Booth": {
+    "windows": "Camera",
+    "darwin": "Photo Booth",
+    "linux": "cheese"
+  },
+
+  "cheese": {
+    "windows": "Camera",
+    "darwin": "Photo Booth",
+    "linux": "cheese"
+  },
+
+  "Notepad": {
+    "windows": "Notepad",
+    "darwin": "Notes",
+    "linux": "gedit"
+  },
+
+  "Notes": {
+    "windows": "Notepad",
+    "darwin": "Notes",
+    "linux": "gedit"
+  },
+
+  "gedit": {
+    "windows": "Notepad",
+    "darwin": "Notes",
+    "linux": "gedit"
+  },
+
+  "TextEdit": {
+    "windows": "Notepad",
+    "darwin": "TextEdit",
+    "linux": "gedit"
+  },
+
+  "wt": {
+    "windows": "wt",
+    "darwin": "Terminal",
+    "linux": "gnome-terminal"
+  },
+
+  "Terminal": {
+    "windows": "wt",
+    "darwin": "Terminal",
+    "linux": "gnome-terminal"
+  },
+
+  "gnome-terminal": {
+    "windows": "wt",
+    "darwin": "Terminal",
+    "linux": "gnome-terminal"
+  },
+
+  "explorer": {
+    "windows": "explorer",
+    "darwin": "Finder",
+    "linux": "nautilus"
+  },
+
+  "Finder": {
+    "windows": "explorer",
+    "darwin": "Finder",
+    "linux": "nautilus"
+  },
+
+  "nautilus": {
+    "windows": "explorer",
+    "darwin": "Finder",
+    "linux": "nautilus"
+  },
+
+  "Outlook": {
+    "windows": "Outlook",
+    "darwin": "Mail",
+    "linux": "thunderbird"
+  },
+
+  "Mail": {
+    "windows": "Outlook",
+    "darwin": "Mail",
+    "linux": "thunderbird"
+  },
+
+  "thunderbird": {
+    "windows": "Outlook",
+    "darwin": "Mail",
+    "linux": "thunderbird"
+  },
+
+  "calc": {
+    "windows": "calc",
+    "darwin": "Calculator",
+    "linux": "gnome-calculator"
+  },
+
+  "Calculator": {
+    "windows": "calc",
+    "darwin": "Calculator",
+    "linux": "gnome-calculator"
+  },
+
+  "gnome-calculator": {
+    "windows": "calc",
+    "darwin": "Calculator",
+    "linux": "gnome-calculator"
+  },
+
+  "wmplayer": {
+    "windows": "wmplayer",
+    "darwin": "Music",
+    "linux": "rhythmbox"
+  },
+
+  "Music": {
+    "windows": "wmplayer",
+    "darwin": "Music",
+    "linux": "rhythmbox"
+  },
+
+  "rhythmbox": {
+    "windows": "wmplayer",
+    "darwin": "Music",
+    "linux": "rhythmbox"
+  },
+
+  "vlc": {
+    "windows": "vlc",
+    "darwin": "QuickTime Player",
+    "linux": "vlc"
+  },
+
+  "QuickTime Player": {
+    "windows": "vlc",
+    "darwin": "QuickTime Player",
+    "linux": "vlc"
+  },
+
+  "Calendar": {
+    "windows": "Outlook",
+    "darwin": "Calendar",
+    "linux": "gnome-calendar"
+  },
+
+  "gnome-calendar": {
+    "windows": "Outlook",
+    "darwin": "Calendar",
+    "linux": "gnome-calendar"
+  },
+
+  "ms-settings:": {
+    "windows": "ms-settings:",
+    "darwin": "System Settings",
+    "linux": "gnome-control-center"
+  },
+
+  "System Settings": {
+    "windows": "ms-settings:",
+    "darwin": "System Settings",
+    "linux": "gnome-control-center"
+  },
+
+  "gnome-control-center": {
+    "windows": "ms-settings:",
+    "darwin": "System Settings",
+    "linux": "gnome-control-center"
+  },
+
+  "Photos": {
+    "windows": "Photos",
+    "darwin": "Photos",
+    "linux": "eog"
+  },
+
+  "eog": {
+    "windows": "Photos",
+    "darwin": "Photos",
+    "linux": "eog"
+  },
+
+  "ms-teams:": {
+    "windows": "ms-teams:",
+    "darwin": "Microsoft Teams",
+    "linux": "teams"
+  },
+
+  "Microsoft Teams": {
+    "windows": "ms-teams:",
+    "darwin": "Microsoft Teams",
+    "linux": "teams"
+  },
+
+  "teams": {
+    "windows": "ms-teams:",
+    "darwin": "Microsoft Teams",
+    "linux": "teams"
+  },
+
+  "Acrobat Reader": {
+    "windows": "Acrobat Reader",
+    "darwin": "Preview",
+    "linux": "evince"
+  },
+
+  "Preview": {
+    "windows": "Acrobat Reader",
+    "darwin": "Preview",
+    "linux": "evince"
+  },
+
+  "evince": {
+    "windows": "Acrobat Reader",
+    "darwin": "Preview",
+    "linux": "evince"
+  },
+
+  "OneDrive": {
+    "windows": "OneDrive",
+    "darwin": "iCloud Drive",
+    "linux": "rclone"
+  },
+
+  "iCloud Drive": {
+    "windows": "OneDrive",
+    "darwin": "iCloud Drive",
+    "linux": "rclone"
+  },
+
+  "rclone": {
+    "windows": "OneDrive",
+    "darwin": "iCloud Drive",
+    "linux": "rclone"
+  },
+
+  "Google Chrome": {
+    "windows": "chrome",
+    "darwin": "Google Chrome",
+    "linux": "google-chrome"
+  },
+
+  "Safari": {
+    "windows": "chrome",
+    "darwin": "Safari",
+    "linux": "firefox"
+  },
+
+  "Firefox": {
+    "windows": "firefox",
+    "darwin": "Firefox",
+    "linux": "firefox"
+  },
+
+  "Visual Studio Code": {
+    "windows": "code",
+    "darwin": "Visual Studio Code",
+    "linux": "code"
+  },
+
+  "VS Code": {
+    "windows": "code",
+    "darwin": "Visual Studio Code",
+    "linux": "code"
+  },
+
+  "Microsoft Word": {
+    "windows": "winword",
+    "darwin": "Microsoft Word",
+    "linux": "libreoffice"
+  },
+
+  "LibreOffice": {
+    "windows": "soffice",
+    "darwin": "LibreOffice",
+    "linux": "libreoffice"
+  },
+
+  "Microsoft Excel": {
+    "windows": "excel",
+    "darwin": "Microsoft Excel",
+    "linux": "libreoffice"
+  },
+
+  "Microsoft PowerPoint": {
+    "windows": "powerpnt",
+    "darwin": "Microsoft PowerPoint",
+    "linux": "libreoffice"
+  },
+
+  "Slack": {
+    "windows": "slack",
+    "darwin": "Slack",
+    "linux": "slack"
+  },
+
+  "Zoom": {
+    "windows": "zoom",
+    "darwin": "zoom.us",
+    "linux": "zoom"
+  },
+
+  "Microsoft Edge": {
+    "windows": "msedge",
+    "darwin": "Microsoft Edge",
+    "linux": "microsoft-edge-stable"
+  },
+
+  "Sublime Text": {
+    "windows": "sublime_text",
+    "darwin": "Sublime Text",
+    "linux": "subl"
+  },
+
+  "Brave": {
+    "windows": "brave",
+    "darwin": "Brave Browser",
+    "linux": "brave-browser"
+  },
+
+  "Skype": {
+    "windows": "skype",
+    "darwin": "Skype",
+    "linux": "skypeforlinux"
+  }
+}
